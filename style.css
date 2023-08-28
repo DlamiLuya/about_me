@@ -1,0 +1,19 @@
+img:hover{text-decoration: none;
+}
+
+img:hover {
+    opacity: 1.0;
+    transform: scale(1.15);
+    border-style: ridge;
+    border-color: black;
+}
+
+button{
+    color: green;
+    border-style: outset;
+    border-color: green;
+}
+
+button:hover {
+    transform: scale(1.10);
+}
